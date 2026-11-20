@@ -10,7 +10,9 @@ Global-Superstore-Sales-Analytics/
 │   └── README.md
 │
 ├── Data-Cleaning/
-│   └── README.md
+    ├── README.md
+│   └── data_cleaning.py
+
 │
 ├── SQL-Analysis/
 │   ├── README.md
