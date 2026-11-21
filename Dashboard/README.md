@@ -6,7 +6,7 @@ This interactive dashboard presents an analysis of Global Superstore sales, prof
 
 **Dashboard Tool:** Google Looker Studio
 
-**Live Dashboard:** [View Interactive Dashboard](https://datastudio.google.com/s/mcGbGvun2As)
+**Live Dashboard:** [View Interactive Dashboard](https://datastudio.google.com/s/tOHBnfrkLFI)
 
 ## Dashboard Pages
 
